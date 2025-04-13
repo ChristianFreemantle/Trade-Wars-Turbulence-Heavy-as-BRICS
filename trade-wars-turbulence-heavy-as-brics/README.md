@@ -54,6 +54,18 @@ Embedded charts from the `visuals/` folder
 
 This project includes a full visual storytelling summary of trade wars, sanctions, and BRICS forecasting:
 
+## Data Sources
+
+This project used open data from:
+
+- [World Bank WITS](https://wits.worldbank.org)
+- [GDP World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+- [Investing.com](https://www.investing.com/currencies/)
+- [StatsSA](https://www.statssa.gov.za)
+- [IMF Data Portal](https://www.imf.org/en/Data)
+- News: [Reuters](https://www.reuters.com), [BBC](https://www.bbc.com), [Al Jazeera](https://www.aljazeera.com)
+- [Prophet ML Library](https://facebook.github.io/prophet/)
+
 
 ## Project Structure
 
