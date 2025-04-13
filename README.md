@@ -67,7 +67,7 @@ Each folder is cleanly organized to separate raw data, notebooks, visual output,
 
 This project includes a full storytelling deck summarizing the core insights:
 
-[View Presentation (PDF)](presentation/summary_presentation.pdf)
+[View Presentation (PDF)](trade-wars-turbulence-heavy-as-brics/presentation/summary_presentation.pdf)
 
 ---
 
