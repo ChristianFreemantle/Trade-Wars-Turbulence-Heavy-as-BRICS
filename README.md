@@ -5,7 +5,7 @@ This project analyzes the economic evolution of BRICS nations vs major economies
 ---
 
 <p align="center">
-  <img src="presentation/presentation_cover.jpg" width="85%">
+  <img src="trade-wars-turbulence-heavy-as-brics/presentation/Presentation Cover.jpg" width="85%">
 </p>
 ---
 
