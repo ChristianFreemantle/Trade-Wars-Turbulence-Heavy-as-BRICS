@@ -5,7 +5,7 @@ This project analyzes the economic evolution of BRICS nations vs major economies
 ---
 
 <p align="center">
-  <img src="presentation/Presentation%20Cover.jpg" width="85%">
+  <img src="presentation/Presentation Cover.jpg" width="85%">
 </p>
 
 ---
