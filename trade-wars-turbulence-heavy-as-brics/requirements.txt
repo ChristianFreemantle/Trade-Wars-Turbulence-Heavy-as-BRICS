@@ -1,0 +1,8 @@
+python
+jupyter
+pandas
+matplotlib
+plotly
+prophet
+seaborn
+canva
